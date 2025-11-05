@@ -1,0 +1,11 @@
+In the hello_flutter project, inspect the following:
+1-lib/
+2-lib/main.dart
+3-pubspec.yaml
+4-android/ and ios/
+5-.dart_tool/, .idea/, and build/
+6-Write a short explanation (3–5 sentences) for the purpose of each:
+What is main.dart and how does it launch the app?
+What role does pubspec.yaml play?
+What is the difference between lib/ and android/?
+
